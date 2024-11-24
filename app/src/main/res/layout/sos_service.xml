@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1C4C63"
+    tools:context=".SosService">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="100dp"
+        app:srcCompat="@drawable/baseline_sos_24" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="SOS SERIVCE"-->
+<!--        android:textSize="24sp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_marginBottom="50dp"/>-->
+
+    <Button
+        android:id="@+id/sos_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send SOS"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-black"/>
+
+
+
+    <Button
+        android:id="@+id/back_to_main_button"
+        android:layout_width="150dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:text="Back to Main"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="100dp"/>
+
+</LinearLayout>

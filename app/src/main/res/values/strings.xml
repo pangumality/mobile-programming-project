@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Community Health Helper Appp</string>
+    <string name="login">Login</string>
+    <string name="fname">Firstname</string>
+    <string name="lname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Register</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

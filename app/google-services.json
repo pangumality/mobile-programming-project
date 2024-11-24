@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042884936377",
+    "project_id": "community-health-helper",
+    "storage_bucket": "community-health-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042884936377:android:1c64917b9ff2e0c8601168",
+        "android_client_info": {
+          "package_name": "com.example.communityhealthhelperappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuq6Xn9bRfo2dIFLME5IkJyl6eI2lnP_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
